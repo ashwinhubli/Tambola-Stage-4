@@ -1,3 +1,4 @@
+#-------------Boilerplate Code Start-----
 import socket
 from tkinter import *
 from  threading import Thread
